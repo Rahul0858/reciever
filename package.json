@@ -5,4 +5,5 @@
     "nodemon": "^3.0.1",
     "parser": "^0.1.4"
   }
+  "main":"script.js"
 }
